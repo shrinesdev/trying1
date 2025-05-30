@@ -211,3 +211,7 @@ footer .nav-link:hover {
 		font-size: 24px;
 	}
 }
+
+body {
+	background:  black;
+}
